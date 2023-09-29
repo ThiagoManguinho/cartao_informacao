@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'fonte';
+    src: url(xilosa.ttf);
+}
+#cartao_informacao{
+    padding: 10px;
+    background-color: #ffff9e;
+    width: 300px;
+    height: 200px;
+    font-size: small;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.2);
+}
+h1{
+    font-size: medium;
+    font-weight: lighter;
+    text-align: center;
+    font-family: fonte;
+}
+img{
+    height: 100px;
+}
+p{
+    font-family: fonte;
+}
